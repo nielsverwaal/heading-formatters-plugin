@@ -1,0 +1,26 @@
+.wp-block .components-popover__content .components-color-palette__item {
+  border-radius: 50%;
+  border: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.wp-block .components-popover__content .components-color-palette__item:hover {
+  border-color: #ccc;
+  transform: scale(1.1);
+}
+
+.wp-block .components-popover__content .components-color-palette {
+  gap: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+.inline-color__reset {
+  margin-top: 0.5rem;
+}
+.components-popover__content {
+  padding: 1rem;
+  border-radius: 0.313rem;
+}

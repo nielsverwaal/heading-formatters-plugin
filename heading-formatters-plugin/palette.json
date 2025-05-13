@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "color": {
+      "palette": [
+        { "name": "Goud", "slug": "goud", "color": "#d9a54e" },
+        { "name": "Zwart", "slug": "zwart", "color": "#000000" },
+        { "name": "Wit", "slug": "wit", "color": "#ffffff" }
+      ]
+    }
+  }
+}
